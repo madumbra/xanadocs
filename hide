@@ -1,4 +1,4 @@
-type=HideTransclusions
+type=typeless
 
 facet=
 sourcedoc: https://raw.githubusercontent.com/madumbra/xanadocs/master/main.txt

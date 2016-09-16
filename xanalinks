@@ -1,0 +1,7 @@
+type=typeless
+
+facet=
+span: https://raw.githubusercontent.com/madumbra/xanadocs/master/main.txt,start=89,length=8
+
+facet=
+span: https://raw.githubusercontent.com/madumbra/xanadocs/master/pg2.txt,start=0,length=27

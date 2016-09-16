@@ -1,0 +1,3 @@
+So, what is Project Xanadu useful for, anyway?
+One could create a twine-style adventure, like so.
+Or one could use it as a place to imbed quotations and quickly find context, ie:
